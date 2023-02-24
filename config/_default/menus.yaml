@@ -1,5 +1,5 @@
 leftnav:
-- identifier: 9abc2e34-6660-4701-9097-a987e6c0d1a4
+- identifier: external--136487087-1677270629354
   name: MIT Governance Lab
-  url: /pages/mit-governance-lab
+  url: https://mitgovlab.org/
   weight: 10
